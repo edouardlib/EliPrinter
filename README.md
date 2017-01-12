@@ -7,6 +7,8 @@ The goal is the get a strong 3D printer with a wide printing area.
   All part has been bought from different online shops and could decrease the price to about 350€
 
 # Printer content
+- Arduino Mega
+- Ramps 1.4
 - V-Slot 60x500mm x6
 - Nema 17 x5
 - Bowden extruder
