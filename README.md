@@ -8,7 +8,7 @@ The goal is the get a strong 3D printer with a wide printing area.
 
 # Printer content
 - V-Slot 60x500mm x6
-- Nema 17
+- Nema 17 x5
 - Bowden extruder
 
 # Marlin configuration
